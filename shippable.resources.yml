@@ -80,6 +80,7 @@ resources:
       sourceName: deepikasl/VT1
       branch: master
 
+
   # This time resource posts new versions for it, every 2 minutes
   - name: nightly
     type: time
