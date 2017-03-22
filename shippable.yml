@@ -90,6 +90,8 @@ build:
     - echo $new
     - echo $secretkey
     - echo $shubhAnku
+    - echo $newBoo
+    - echo $newB
 
 integrations:
   notifications:
